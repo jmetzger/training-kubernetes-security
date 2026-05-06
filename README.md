@@ -20,7 +20,8 @@
 
   1. Benchmarking / Security Scans
      * [CIS Benchmarking Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
-     * [Exercise: kube-bench - scanning with cis-benchmark-kubernetes](security/cis-benchmark-kubernetes/exercise.md)
+     * [Exercise: kube-bench - Worker Node (CIS Benchmark)](security/cis-benchmark-kubernetes/exercise.md)
+     * [Exercise: kube-bench - Control Plane (CIS Benchmark)](security/cis-benchmark-kubernetes/exercise-control-plane.md)
      * [OWASP - Top Ten Kubernetes Risks](https://owasp.org/www-project-kubernetes-top-ten/2022/en/src/K09-misconfigured-cluster-components)
 
   1. Scanning for outdated versions of images and helm-charts

@@ -4,7 +4,7 @@
 
 | Version | Release | Support Ende |
 |---------|---------|--------------|
-| 1.34 | August 2026 | ~Oktober 2027 |
+| 1.34 | ~August 2026 (geplant) | ~Oktober 2027 |
 | 1.33 | April 2026 | ~Juni 2027 |
 | 1.32 | Dezember 2025 | ~Februar 2027 |
 

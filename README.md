@@ -18,6 +18,10 @@
      * [The route from development to production to secure](security/overview/route-2-production.md)
      * [Kill Chain](kill-chain.md)
 
+  1. Kubernetes Versionen & CIS Benchmark Grundlagen
+     * [Kubernetes Versionen & CIS Benchmark Überblick](security/cis-benchmark-kubernetes/overview.md)
+     * [CIS Kubernetes Benchmark V1.12.0 - PDF (Link vom Trainer)](http://161.35.210.204/CIS_Kubernetes_Benchmark_V1.12.0.pdf)
+
   1. Benchmarking / Security Scans
      * [CIS Benchmarking Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
      * [Exercise: kube-bench - Worker Node (CIS Benchmark)](security/cis-benchmark-kubernetes/exercise.md)

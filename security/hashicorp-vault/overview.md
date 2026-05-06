@@ -1,4 +1,4 @@
-# Hashicrop Vault 
+# Hashicorp Vault 
 
 ## Zentrale Externer Server mit 3 Nodes (Produktion) 
 

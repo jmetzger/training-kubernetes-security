@@ -3,6 +3,7 @@
 ## Agenda 
 
   1. Vorbereitung
+     * [Clusterumgebung & Zugänge (Bastion, ssh cp, ssh worker, kubectl)](security/cluster-access.md)
      * [Self-Service Cluster ausrollen](/monitoring/training-stack/install.md)
      * [Self-Service Cluster destroy](/monitoring/training-stack/uninstall.md)
 

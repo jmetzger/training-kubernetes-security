@@ -4,14 +4,14 @@
 
 | Version | Release | Support Ende |
 |---------|---------|--------------|
-| 1.33 | April 2026 | ~Juni 2027 |
-| 1.32 | Dezember 2025 | ~Februar 2027 |
-| 1.31 | August 2025 | ~Oktober 2026 |
+| 1.36 | April 2026 | ~Juni 2027 |
+| 1.35 | Dezember 2025 | ~Februar 2027 |
+| 1.34 | August 2025 | ~Oktober 2026 |
 
 Empfehlung: immer auf einer der drei aktuellen Minor-Versionen bleiben.  
 Release-Zyklus: ca. alle 4 Monate eine neue Minor-Version.
 
-> Der CIS Kubernetes Benchmark V1.12.0 gilt für Kubernetes **v1.32 - v1.34** (1.34 noch nicht veröffentlicht).
+> Der CIS Kubernetes Benchmark V1.12.0 gilt für Kubernetes **v1.32 - v1.34**.
 
 ## CIS Benchmark für Kubernetes
 

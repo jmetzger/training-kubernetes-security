@@ -78,6 +78,7 @@
      * [create user for kubeconfig with using certificate](kubernetes/rbac/create-kubeconfig-with-cert.md)
      * Components / moving parts of RBAC
      * [practical exercise rbac](kubernetes/rbac-create-user-kubernetes-1-25.md)
+     * RBAC aufräumen: ungenutzte Rechte finden (Audit-Log des kube-apiserver, Label-Konvention Owner/Zweck/Ablaufdatum) (TODO: Übung ausarbeiten)
 
   1. Obey Security Policies (AdmissionControllers)
      * [Admission Controller](/security/admissionController/01-overview.md)
